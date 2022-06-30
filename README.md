@@ -18,28 +18,51 @@
 
 <div align="center">
   <a href="https://github.com/gustavofdasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofdasilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofdasilva&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofdasilva&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   
 ##
   
    ## Tecnologias/Linguagens que tenho experiência! <br>
   <div>
-    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
-    <img align="center" alt="" height="30" width="40"src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ff7b00">
+    <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    - C#: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D e 2D
+    <br> <br>
+    <img align="center" alt="" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+    - Css3: Iniciante - Estudando atualmente 🌱
+    <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    - Html5: Iniciante - Estudando atualmente 🌱
+    <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+    - Java: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 2D
+    <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    - Photoshop: Intermediária - Domínio da maioria das ferramentas e modificação básica de imagens
+    <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+    - Unity: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D e 2D
+    <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+    - Blender: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D
+    <br> <br>
+    <img align="center" alt="" height="30" width="30"src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ff7b00">
+    - Adobe Illustrator: Intermediária - Domínio da maioria das ferramentas e uso para algumas ilustrações 
+    <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg"/>
+    - Krita (software alternativo do photoshop): Intermediária/Avançada - Domínio da maioria das ferramentas e uso para ilustrações e pintura digital 
+    <br> <br>
+    
   </div>
   <br><br>
   
   ## Editores de código que utilizo!
   <div>
     <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    - Visual Studio Code: Utilizo para a grande maioria dos meus projetos.
+    <br> <br>
     <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+    - Atom: Utilizo com projetos feitos no Unity.
+    <br> <br>
   </div>
