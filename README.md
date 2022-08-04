@@ -3,7 +3,7 @@
 ## Sobre mim:
 - 👨‍💻 Meu nome é Gustavo, tenho 16 anos e estudante de T.I. 
 - 🌱 Atualmente estou estudando desenvolvimento de sites, focado no front-end.
-- 🌠 Meus principais interesses são:
+- 🌠 Meus principais <strong>interesses</strong> são:
   - (Principal) Desenvolvimento de sites (Full-stack);
   - Desenvolvimento de Jogos;
   - Modelagem 3D e Concept Art;
