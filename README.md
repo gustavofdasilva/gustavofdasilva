@@ -35,6 +35,9 @@
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     - Html5: Iniciante - Estudando atualmente 🌱
     <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    - Javascript: Iniciante - Estudando atualmente 🌱
+    <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
     - Java: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 2D
     <br> <br>
@@ -48,11 +51,7 @@
     - Blender: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D
     <br> <br>
     <img align="center" alt="" height="30" width="30"src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ff7b00">
-    - Adobe Illustrator: Intermediária - Domínio da maioria das ferramentas e uso para algumas ilustrações 
-    <br> <br>
-    <img align="center" alt="" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg"/>
-    - Krita (software alternativo do photoshop): Intermediária/Avançada - Domínio da maioria das ferramentas e uso para ilustrações e pintura digital 
-    <br> <br>
+
     
   </div>
   <br><br>
