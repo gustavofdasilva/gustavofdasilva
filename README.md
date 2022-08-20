@@ -42,17 +42,13 @@
     - Java: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 2D
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    - Photoshop: Intermediária - Domínio da maioria das ferramentas e modificação básica de imagens
+    - Photoshop: iniciante - Domínio de ferramentas básicas
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
     - Unity: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D e 2D
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
-    - Blender: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D
-    <br> <br>
-    <img align="center" alt="" height="30" width="30"src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=ff7b00">
-
-    
+    - Blender: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D    
   </div>
   <br><br>
   
