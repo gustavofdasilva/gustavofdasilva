@@ -1,7 +1,7 @@
 # Olá! Seja bem vindo ao meu perfil! 😆
 
 ## Sobre mim:
-- 👨‍💻 Meu nome é Gustavo, tenho 17 anos e estudante de T.I. 
+- 👨‍💻 Meu nome é Gustavo, tenho 17 anos e sou estudante de T.I. 
 - 🌱 Atualmente estou estudando desenvolvimento de sites, focado no front-end.
 - 🌠 Meus principais <strong>interesses</strong> são:
   - (Principal) Desenvolvimento de sites (Full-stack);
