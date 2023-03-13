@@ -30,13 +30,13 @@
     - C#: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D e 2D
     <br> <br>
     <img align="center" alt="" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    - Css3: Iniciante - Estudando atualmente 🌱
+    - Css3: Intermediário - Estudando atualmente 🌱
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    - Html5: Iniciante - Estudando atualmente 🌱
+    - Html5: Intermediário - Estudando atualmente 🌱
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    - Javascript: Iniciante - Estudando atualmente 🌱
+    - Javascript: Intermediário - Estudando atualmente 🌱
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
     - Java: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 2D
