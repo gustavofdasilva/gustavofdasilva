@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou estudando desenvolvimento de sites, focado no front-end.
 - 🌠 Meus principais <strong>interesses</strong> são:
   - (Principal) Desenvolvimento de sites (Full-stack);
-  - Desenvolvimento de Jogos;
+  - Desenvolvimento Mobile;
   - Modelagem 3D e Concept Art;
 <div>
   <a href = "https://www.instagram.com/g_ferreiraaa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
