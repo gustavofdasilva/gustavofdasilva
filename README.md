@@ -1,11 +1,11 @@
 # Olá! Seja bem vindo ao meu perfil! 😆
 
 ## Sobre mim:
-- 👨‍💻 Meu nome é Gustavo, tenho 17 anos e sou estudante de T.I. 
-- 🌱 Atualmente estou estudando desenvolvimento de sites, focado no front-end.
+- 👨‍💻 Meu nome é Gustavo, tenho 18 anos e sou estudante de T.I. 
+- 🌱 Atualmente estou estudando desenvolvimento mobile.
 - 🌠 Meus principais <strong>interesses</strong> são:
-  - (Principal) Desenvolvimento de sites (Full-stack);
-  - Desenvolvimento Mobile;
+  - (Principal) Desenvolvimento mobile;
+  - Desenvolvimento de sites;
   - Modelagem 3D e Concept Art;
 <div>
   <a href = "https://www.instagram.com/g_ferreiraaa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,6 +26,9 @@
   
    ## Tecnologias/Linguagens que tenho experiência! <br>
   <div>
+    <img align="center" alt="" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
+    - React Native: iniciante - Estudando atualmente 🌱
+    <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     - C#: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D e 2D
     <br> <br>
