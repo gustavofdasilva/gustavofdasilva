@@ -9,6 +9,7 @@
   - Modelagem 3D e Concept Art;
 <div>
   <a href = "https://www.instagram.com/g_ferreiraaa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/gustavo-f-da-silva/"><img src="https://img.shields.io/badge/LinkedIn-%ff2fff.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"</a>
   <a href = "mailto:gustavofsilvas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.deviantart.com/guzzfr"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank"></a>
   <a href = "https://br.pinterest.com/guzzFR"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
