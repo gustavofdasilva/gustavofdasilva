@@ -1,6 +1,6 @@
 # Olá! Seja bem vindo ao meu perfil! 😆
 
-## Portfólio: https://gustavofdasilva.github.io
+##<a href = "https://gustavofdasilva.github.io" target="_blank">Meu portfólio!</a>
 
 ## Sobre mim:
 - 👨‍💻 Meu nome é Gustavo, tenho 18 anos e sou estudante de T.I. 
