@@ -28,22 +28,22 @@
    ## Tecnologias/Linguagens que tenho experiência! <br>
   <div>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    - Php: iniciante - Estudando atualmente 🌱
+    - Python: iniciante - Estudando atualmente 🌱
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
-    - React Native: iniciante - Estudando atualmente 🌱
+    - React e React Native: intermediário - Estudando atualmente 🌱
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     - C#: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D e 2D
     <br> <br>
     <img align="center" alt="" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-    - Css3: Intermediário - Estudando atualmente 🌱
+    - Css3: Avançado 
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    - Html5: Intermediário - Estudando atualmente 🌱
+    - Html5: Avançado
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    - Javascript: Intermediário - Estudando atualmente 🌱
+    - Javascript: Intermediário
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
     - Java: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 2D
