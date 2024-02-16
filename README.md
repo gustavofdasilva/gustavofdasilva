@@ -30,8 +30,11 @@
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     - Python: iniciante - Estudando atualmente 🌱
     <br> <br>
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
+    - NodeJs: iniciante - Estudando atualmente 🌱
+    <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
-    - React e React Native: intermediário - Estudando atualmente 🌱
+    - React e React Native: intermediário
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     - C#: Iniciante - Utilizada apenas para alguns projetos para estudo de desenvolvimento de jogos 3D e 2D
