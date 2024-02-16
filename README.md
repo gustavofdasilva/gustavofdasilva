@@ -4,7 +4,7 @@
 
 ## Sobre mim:
 - 👨‍💻 Meu nome é Gustavo, tenho 18 anos e sou estudante de T.I. 
-- 🌱 Atualmente estou estudando desenvolvimento mobile.
+- 🌱 Atualmente estou estudando desenvolvimento backend.
 - 🌠 Meus principais <strong>interesses</strong> são:
   - (Principal) Desenvolvimento mobile;
   - Desenvolvimento de sites;
