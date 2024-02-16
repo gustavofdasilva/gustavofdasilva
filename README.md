@@ -30,7 +30,7 @@
     <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     - Python: iniciante - Estudando atualmente 🌱
     <br> <br>
-    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
+    <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     - NodeJs: iniciante - Estudando atualmente 🌱
     <br> <br>
     <img align="center" alt="" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
