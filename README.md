@@ -3,8 +3,7 @@
 ## Portfólio: <a href ="https://gustavofdasilva.github.io" target="_blank">gustavofdasilva.github.io</a>
 
 ## Sobre mim:
-- 👨‍💻 Meu nome é Gustavo, tenho 18 anos e sou estudante e entusiasta de T.I. 
-- 🌱 Atualmente estou estudando docker e backend.
+- 👨‍💻 Meu nome é Gustavo, tenho 20 anos e sou Desenvolvedor Full Stack Júnior. 
 - 🌠 Meus principais <strong>interesses</strong> são:
   - Desenvolvimento de sites;
   - Desenvolvimento mobile;
